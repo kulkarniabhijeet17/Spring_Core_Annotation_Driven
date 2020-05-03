@@ -1,0 +1,1 @@
+multiple instances of prototype bean are created. only one instance of singleton bean is created.
