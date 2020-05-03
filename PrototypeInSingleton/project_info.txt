@@ -1,0 +1,1 @@
+prototype bean behave just like a singleton bean. only one instance of prototype bean is created.
